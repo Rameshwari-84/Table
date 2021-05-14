@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Form</title>
+        <style>
+            table,
+            th,
+            td{
+            border:2px solid rgb(8, 8, 8);
+            border-collapse: collapse;
+            }
+
+            th,
+            td{
+                padding: 10px;
+                text-align: center;
+            }
+
+            h1{
+                color: rgb(255, 71, 71);
+                text-align: center;
+                }
+            h2{
+                color:slateblue;
+                text-align: center;
+                }
+                
+                #tr1{
+                    background-color: rgb(243, 65, 190);
+                }
+                #tr2{
+                    background-color: rgb(202, 248, 196);
+                }
+                #tr3{
+                    background-color: rgb(202, 248, 196);
+                }
+                #tr4{
+                    background-color: rgb(202, 248, 196);
+                }
+                #tr5{
+                    background-color: rgb(202, 248, 196);
+                    }
+                    #tr6{
+                    background-color: rgb(202, 248, 196);
+                }
+                
+            
+           
+
+    
+        </style>
+    </head>
+
+    <body>
+        <h1>Birthday Celebration</h1>
+        <h2>Total Particepant</h2>
+
+
+
+        <table>
+            <table style="width: 100%;">
+
+    
+           <tr>
+            <tr id="tr1">
+            <th>Frist name</th>
+            <th>Middle name</th>
+            <th>Last name</th>
+            <th>Gender</th>
+            <th>Age</th>
+        </tr>
+        
+           
+        <tr>
+            <tr id="tr2">
+
+            <td>Rameshwari</td>
+            <td>Kailash</td>
+            <td>Tangade</td>
+            <td>Female</td>
+            <td>24</td>
+
+           </tr>
+
+
+           <tr>
+            <tr id="tr3">
+
+            <td>Guruprasad</td>
+            <td>Shrikant</td>
+            <td>Tangade</td>
+            <td>male</td>
+            <td>5</td>
+
+           </tr>
+
+
+           <tr>
+            <tr id="tr4">
+
+            <td>Rajeshri</td>
+            <td>Swapnil</td>
+            <td>Tikar</td>
+            <td>Female</td>
+            <td>26</td>
+
+           </tr>
+
+
+           <tr>
+            <tr id="tr5">
+
+            <td>Laxmikant</td>
+            <td>Kailash</td>
+            <td>Tangade</td>
+            <td>male</td>
+            <td>20</td>
+
+           </tr>
+
+
+           <tr>
+            <tr id="tr6">
+
+            <td>Manisha</td>
+            <td>Avinash</td>
+            <td>Tangade</td>
+            <td>Female</td>
+            <td>25</td>
+
+           </tr>
+
+    </table>  
+    </body>
